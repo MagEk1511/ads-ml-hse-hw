@@ -1,0 +1,6 @@
+﻿course_id,course_name,course_category,lessons_total,base_price
+PY101,Python: основы,Программирование,24,4900
+DA201,Анализ данных,Data Science,32,7900
+ML301,Основы ML,Data Science,36,9900
+SQL201,SQL и базы данных,Базы данных,28,6900
+WEB101,Web-разработка,Программирование,30,7500
